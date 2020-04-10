@@ -1,6 +1,6 @@
-[submodule "client"]
-	path = client
-	url = /Users/ricardo/Developer/tests/tictaetoe/client
-[submodule "server"]
-	path = server
-	url = /Users/ricardo/Developer/tests/tictaetoe/server
+[submodule "tic-tae-toe-nodejs-api"]
+	path = tic-tae-toe-nodejs-api
+	url = git@github.com:ricardosbarbosa/tic-tae-toe-nodejs-api.git
+[submodule "tic-tae-toe-reactjs"]
+	path = tic-tae-toe-reactjs
+	url = git@github.com:ricardosbarbosa/tic-tae-toe-reactjs.git
