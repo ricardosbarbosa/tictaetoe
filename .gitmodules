@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = /Users/ricardo/Developer/tests/tictaetoe/client
+[submodule "server"]
+	path = server
+	url = /Users/ricardo/Developer/tests/tictaetoe/server
